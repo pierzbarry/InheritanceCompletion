@@ -4,6 +4,9 @@
     <list default="true" id="79805173-612c-450e-bddd-3ace49b5b64c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/com/company/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/com/company/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/com/company/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/com/company/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/com/company/Software.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/com/company/Software.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Software.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Software.java" afterDir="false" />
@@ -70,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572896938254</updated>
-      <workItem from="1572896942604" duration="1956000" />
+      <workItem from="1572896942604" duration="3282000" />
     </task>
     <servers />
   </component>
